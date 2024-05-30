@@ -1,0 +1,1332 @@
+Tree depth 1 No trees 10 Bag 2 Impurity class_error
+ Training time: 0.0764458179473877 seconds
+Predict time: 0.05246615409851074
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 2 Impurity gini
+ Training time: 0.04326009750366211 seconds
+Predict time: 0.06355762481689453
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 2 Impurity entrophy
+ Training time: 0.0530545711517334 seconds
+Predict time: 0.05890655517578125
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 4 Impurity class_error
+ Training time: 0.07799267768859863 seconds
+Predict time: 0.057092905044555664
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 4 Impurity gini
+ Training time: 0.054929256439208984 seconds
+Predict time: 0.045411109924316406
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 4 Impurity entrophy
+ Training time: 0.05773138999938965 seconds
+Predict time: 0.04762721061706543
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 5 Impurity class_error
+ Training time: 0.0757913589477539 seconds
+Predict time: 0.047849416732788086
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 5 Impurity gini
+ Training time: 0.054421424865722656 seconds
+Predict time: 0.0378420352935791
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 5 Impurity entrophy
+ Training time: 0.05472755432128906 seconds
+Predict time: 0.039725542068481445
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 7 Impurity class_error
+ Training time: 0.06672930717468262 seconds
+Predict time: 0.038027048110961914
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 7 Impurity gini
+ Training time: 0.06493234634399414 seconds
+Predict time: 0.04105353355407715
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 7 Impurity entrophy
+ Training time: 0.07729291915893555 seconds
+Predict time: 0.03724813461303711
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 12 Impurity class_error
+ Training time: 0.09261322021484375 seconds
+Predict time: 0.035927534103393555
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 12 Impurity gini
+ Training time: 0.10000085830688477 seconds
+Predict time: 0.03490042686462402
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 12 Impurity entrophy
+ Training time: 0.09647512435913086 seconds
+Predict time: 0.03493905067443848
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 30 Impurity class_error
+ Training time: 0.20544934272766113 seconds
+Predict time: 0.03441476821899414
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 30 Impurity gini
+ Training time: 0.2025892734527588 seconds
+Predict time: 0.03220963478088379
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 10 Bag 30 Impurity entrophy
+ Training time: 0.2072131633758545 seconds
+Predict time: 0.0323944091796875
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 2 Impurity class_error
+ Training time: 0.06493043899536133 seconds
+Predict time: 0.046788930892944336
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 2 Impurity gini
+ Training time: 0.05589032173156738 seconds
+Predict time: 0.04470324516296387
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 2 Impurity entrophy
+ Training time: 0.05377459526062012 seconds
+Predict time: 0.044653892517089844
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 4 Impurity class_error
+ Training time: 0.07698965072631836 seconds
+Predict time: 0.04369783401489258
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 4 Impurity gini
+ Training time: 0.07568073272705078 seconds
+Predict time: 0.0725412368774414
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 4 Impurity entrophy
+ Training time: 0.10035896301269531 seconds
+Predict time: 0.046862125396728516
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 5 Impurity class_error
+ Training time: 0.09060955047607422 seconds
+Predict time: 0.049968719482421875
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 5 Impurity gini
+ Training time: 0.08701086044311523 seconds
+Predict time: 0.0426030158996582
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 5 Impurity entrophy
+ Training time: 0.08567357063293457 seconds
+Predict time: 0.04462909698486328
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 7 Impurity class_error
+ Training time: 0.10869288444519043 seconds
+Predict time: 0.04298853874206543
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 7 Impurity gini
+ Training time: 0.10446286201477051 seconds
+Predict time: 0.042043447494506836
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 7 Impurity entrophy
+ Training time: 0.10625195503234863 seconds
+Predict time: 0.04381561279296875
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 12 Impurity class_error
+ Training time: 0.1564924716949463 seconds
+Predict time: 0.04381275177001953
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 12 Impurity gini
+ Training time: 0.16557717323303223 seconds
+Predict time: 0.04246807098388672
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 12 Impurity entrophy
+ Training time: 0.1594231128692627 seconds
+Predict time: 0.04188656806945801
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 30 Impurity class_error
+ Training time: 0.3541901111602783 seconds
+Predict time: 0.04421687126159668
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 30 Impurity gini
+ Training time: 0.34784817695617676 seconds
+Predict time: 0.05011105537414551
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 20 Bag 30 Impurity entrophy
+ Training time: 0.3865017890930176 seconds
+Predict time: 0.04139304161071777
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 2 Impurity class_error
+ Training time: 0.1337881088256836 seconds
+Predict time: 0.09004902839660645
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 2 Impurity gini
+ Training time: 0.13453960418701172 seconds
+Predict time: 0.0825033187866211
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 2 Impurity entrophy
+ Training time: 0.14184856414794922 seconds
+Predict time: 0.08240008354187012
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 4 Impurity class_error
+ Training time: 0.19572210311889648 seconds
+Predict time: 0.08282089233398438
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 4 Impurity gini
+ Training time: 0.18896484375 seconds
+Predict time: 0.1056528091430664
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 4 Impurity entrophy
+ Training time: 0.19764065742492676 seconds
+Predict time: 0.0815894603729248
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 5 Impurity class_error
+ Training time: 0.22486209869384766 seconds
+Predict time: 0.08226871490478516
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 5 Impurity gini
+ Training time: 0.21544790267944336 seconds
+Predict time: 0.08261632919311523
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 5 Impurity entrophy
+ Training time: 0.2285175323486328 seconds
+Predict time: 0.08204007148742676
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 7 Impurity class_error
+ Training time: 0.2823309898376465 seconds
+Predict time: 0.08157896995544434
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 7 Impurity gini
+ Training time: 0.26017022132873535 seconds
+Predict time: 0.08178210258483887
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 7 Impurity entrophy
+ Training time: 0.2735717296600342 seconds
+Predict time: 0.08221817016601562
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 12 Impurity class_error
+ Training time: 0.40732336044311523 seconds
+Predict time: 0.08237409591674805
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 12 Impurity gini
+ Training time: 0.3970649242401123 seconds
+Predict time: 0.0818471908569336
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 12 Impurity entrophy
+ Training time: 0.42209792137145996 seconds
+Predict time: 0.08136177062988281
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 30 Impurity class_error
+ Training time: 0.892261266708374 seconds
+Predict time: 0.08008909225463867
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 30 Impurity gini
+ Training time: 0.9334719181060791 seconds
+Predict time: 0.0800621509552002
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 50 Bag 30 Impurity entrophy
+ Training time: 1.0613017082214355 seconds
+Predict time: 0.08120894432067871
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 2 Impurity class_error
+ Training time: 0.3184833526611328 seconds
+Predict time: 0.14975619316101074
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 2 Impurity gini
+ Training time: 0.2802128791809082 seconds
+Predict time: 0.14409661293029785
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 2 Impurity entrophy
+ Training time: 0.28011393547058105 seconds
+Predict time: 0.14385223388671875
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 4 Impurity class_error
+ Training time: 0.4320945739746094 seconds
+Predict time: 0.1456456184387207
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 4 Impurity gini
+ Training time: 0.38105249404907227 seconds
+Predict time: 0.1466202735900879
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 4 Impurity entrophy
+ Training time: 0.4181325435638428 seconds
+Predict time: 0.15000391006469727
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 5 Impurity class_error
+ Training time: 0.4508798122406006 seconds
+Predict time: 0.1494615077972412
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 5 Impurity gini
+ Training time: 0.42958950996398926 seconds
+Predict time: 0.14984416961669922
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 5 Impurity entrophy
+ Training time: 0.4398040771484375 seconds
+Predict time: 0.15250158309936523
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 7 Impurity class_error
+ Training time: 0.5763907432556152 seconds
+Predict time: 0.14451241493225098
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 7 Impurity gini
+ Training time: 0.5370855331420898 seconds
+Predict time: 0.1444559097290039
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 7 Impurity entrophy
+ Training time: 0.5607595443725586 seconds
+Predict time: 0.1498720645904541
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 12 Impurity class_error
+ Training time: 0.8254437446594238 seconds
+Predict time: 0.14837431907653809
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 12 Impurity gini
+ Training time: 0.7797238826751709 seconds
+Predict time: 0.14348673820495605
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 12 Impurity entrophy
+ Training time: 0.8186101913452148 seconds
+Predict time: 0.1462564468383789
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 30 Impurity class_error
+ Training time: 1.8006484508514404 seconds
+Predict time: 0.15823698043823242
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 30 Impurity gini
+ Training time: 1.776601791381836 seconds
+Predict time: 0.14423060417175293
+Accuracy: 0.5567616463138851
+Tree depth 1 No trees 100 Bag 30 Impurity entrophy
+ Training time: 1.826692819595337 seconds
+Predict time: 0.21226048469543457
+Accuracy: 0.5567616463138851
+Tree depth 2 No trees 10 Bag 2 Impurity class_error
+ Training time: 0.04186582565307617 seconds
+Predict time: 0.04376864433288574
+Accuracy: 0.6341022161917684
+Tree depth 2 No trees 10 Bag 2 Impurity gini
+ Training time: 0.038169145584106445 seconds
+Predict time: 0.04336857795715332
+Accuracy: 0.683853459972863
+Tree depth 2 No trees 10 Bag 2 Impurity entrophy
+ Training time: 0.037854909896850586 seconds
+Predict time: 0.045660972595214844
+Accuracy: 0.6123925825418363
+Tree depth 2 No trees 10 Bag 4 Impurity class_error
+ Training time: 0.06066465377807617 seconds
+Predict time: 0.04490184783935547
+Accuracy: 0.6974219810040706
+Tree depth 2 No trees 10 Bag 4 Impurity gini
+ Training time: 0.06363511085510254 seconds
+Predict time: 0.04709982872009277
+Accuracy: 0.8285843509724107
+Tree depth 2 No trees 10 Bag 4 Impurity entrophy
+ Training time: 0.0624692440032959 seconds
+Predict time: 0.04517769813537598
+Accuracy: 0.5725915875169606
+Tree depth 2 No trees 10 Bag 5 Impurity class_error
+ Training time: 0.0739591121673584 seconds
+Predict time: 0.04512333869934082
+Accuracy: 0.7824513794663048
+Tree depth 2 No trees 10 Bag 5 Impurity gini
+ Training time: 0.07035517692565918 seconds
+Predict time: 0.04400491714477539
+Accuracy: 0.7340569877883311
+Tree depth 2 No trees 10 Bag 5 Impurity entrophy
+ Training time: 0.07435464859008789 seconds
+Predict time: 0.0440673828125
+Accuracy: 0.8290366350067843
+Tree depth 2 No trees 10 Bag 7 Impurity class_error
+ Training time: 0.10911011695861816 seconds
+Predict time: 0.045899152755737305
+Accuracy: 0.9018543645409317
+Tree depth 2 No trees 10 Bag 7 Impurity gini
+ Training time: 0.0954291820526123 seconds
+Predict time: 0.04516744613647461
+Accuracy: 0.8435097241067391
+Tree depth 2 No trees 10 Bag 7 Impurity entrophy
+ Training time: 0.10443449020385742 seconds
+Predict time: 0.0451204776763916
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 10 Bag 12 Impurity class_error
+ Training time: 0.1801903247833252 seconds
+Predict time: 0.045554399490356445
+Accuracy: 0.900497512437811
+Tree depth 2 No trees 10 Bag 12 Impurity gini
+ Training time: 0.16341257095336914 seconds
+Predict time: 0.0449671745300293
+Accuracy: 0.8991406603346902
+Tree depth 2 No trees 10 Bag 12 Impurity entrophy
+ Training time: 0.17420029640197754 seconds
+Predict time: 0.045181989669799805
+Accuracy: 0.8421528720036183
+Tree depth 2 No trees 10 Bag 30 Impurity class_error
+ Training time: 0.40770626068115234 seconds
+Predict time: 0.04890298843383789
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 10 Bag 30 Impurity gini
+ Training time: 0.40407538414001465 seconds
+Predict time: 0.04479217529296875
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 10 Bag 30 Impurity entrophy
+ Training time: 0.41835737228393555 seconds
+Predict time: 0.04474949836730957
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 20 Bag 2 Impurity class_error
+ Training time: 0.08492922782897949 seconds
+Predict time: 0.08411145210266113
+Accuracy: 0.7146087743102668
+Tree depth 2 No trees 20 Bag 2 Impurity gini
+ Training time: 0.07877779006958008 seconds
+Predict time: 0.07412981986999512
+Accuracy: 0.7801899592944369
+Tree depth 2 No trees 20 Bag 2 Impurity entrophy
+ Training time: 0.08471345901489258 seconds
+Predict time: 0.0749063491821289
+Accuracy: 0.6142017186793306
+Tree depth 2 No trees 20 Bag 4 Impurity class_error
+ Training time: 0.13439083099365234 seconds
+Predict time: 0.07460999488830566
+Accuracy: 0.8530076888285844
+Tree depth 2 No trees 20 Bag 4 Impurity gini
+ Training time: 0.12807202339172363 seconds
+Predict time: 0.07350754737854004
+Accuracy: 0.7684305744007237
+Tree depth 2 No trees 20 Bag 4 Impurity entrophy
+ Training time: 0.13239693641662598 seconds
+Predict time: 0.07337284088134766
+Accuracy: 0.9009497964721845
+Tree depth 2 No trees 20 Bag 5 Impurity class_error
+ Training time: 0.16561174392700195 seconds
+Predict time: 0.07452535629272461
+Accuracy: 0.8190863862505654
+Tree depth 2 No trees 20 Bag 5 Impurity gini
+ Training time: 0.1483604907989502 seconds
+Predict time: 0.0740976333618164
+Accuracy: 0.8050655811849842
+Tree depth 2 No trees 20 Bag 5 Impurity entrophy
+ Training time: 0.15631818771362305 seconds
+Predict time: 0.07189512252807617
+Accuracy: 0.8453188602442334
+Tree depth 2 No trees 20 Bag 7 Impurity class_error
+ Training time: 0.20034122467041016 seconds
+Predict time: 0.07410287857055664
+Accuracy: 0.9063772048846676
+Tree depth 2 No trees 20 Bag 7 Impurity gini
+ Training time: 0.2111048698425293 seconds
+Predict time: 0.07497429847717285
+Accuracy: 0.9068294889190411
+Tree depth 2 No trees 20 Bag 7 Impurity entrophy
+ Training time: 0.21643567085266113 seconds
+Predict time: 0.08254194259643555
+Accuracy: 0.8833107191316146
+Tree depth 2 No trees 20 Bag 12 Impurity class_error
+ Training time: 0.33635926246643066 seconds
+Predict time: 0.07158660888671875
+Accuracy: 0.8778833107191316
+Tree depth 2 No trees 20 Bag 12 Impurity gini
+ Training time: 0.35635924339294434 seconds
+Predict time: 0.0749359130859375
+Accuracy: 0.8968792401628223
+Tree depth 2 No trees 20 Bag 12 Impurity entrophy
+ Training time: 0.3347446918487549 seconds
+Predict time: 0.07372283935546875
+Accuracy: 0.9090909090909091
+Tree depth 2 No trees 20 Bag 30 Impurity class_error
+ Training time: 0.853125810623169 seconds
+Predict time: 0.07279586791992188
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 20 Bag 30 Impurity gini
+ Training time: 0.8101565837860107 seconds
+Predict time: 0.07196688652038574
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 20 Bag 30 Impurity entrophy
+ Training time: 0.8704354763031006 seconds
+Predict time: 0.07368016242980957
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 50 Bag 2 Impurity class_error
+ Training time: 0.2115468978881836 seconds
+Predict time: 0.15485739707946777
+Accuracy: 0.6196291270918136
+Tree depth 2 No trees 50 Bag 2 Impurity gini
+ Training time: 0.19728946685791016 seconds
+Predict time: 0.16508841514587402
+Accuracy: 0.6987788331071914
+Tree depth 2 No trees 50 Bag 2 Impurity entrophy
+ Training time: 0.21169400215148926 seconds
+Predict time: 0.1689295768737793
+Accuracy: 0.7476255088195387
+Tree depth 2 No trees 50 Bag 4 Impurity class_error
+ Training time: 0.33467650413513184 seconds
+Predict time: 0.18766570091247559
+Accuracy: 0.8738127544097694
+Tree depth 2 No trees 50 Bag 4 Impurity gini
+ Training time: 0.33635568618774414 seconds
+Predict time: 0.1546156406402588
+Accuracy: 0.8959746720940751
+Tree depth 2 No trees 50 Bag 4 Impurity entrophy
+ Training time: 0.33964967727661133 seconds
+Predict time: 0.17525911331176758
+Accuracy: 0.8498417005879693
+Tree depth 2 No trees 50 Bag 5 Impurity class_error
+ Training time: 0.40500378608703613 seconds
+Predict time: 0.15608978271484375
+Accuracy: 0.9122568973315242
+Tree depth 2 No trees 50 Bag 5 Impurity gini
+ Training time: 0.34975337982177734 seconds
+Predict time: 0.15786099433898926
+Accuracy: 0.8403437358661239
+Tree depth 2 No trees 50 Bag 5 Impurity entrophy
+ Training time: 0.37192344665527344 seconds
+Predict time: 0.15363287925720215
+Accuracy: 0.9104477611940298
+Tree depth 2 No trees 50 Bag 7 Impurity class_error
+ Training time: 0.4930284023284912 seconds
+Predict time: 0.1653306484222412
+Accuracy: 0.9090909090909091
+Tree depth 2 No trees 50 Bag 7 Impurity gini
+ Training time: 0.4795081615447998 seconds
+Predict time: 0.16257047653198242
+Accuracy: 0.8819538670284939
+Tree depth 2 No trees 50 Bag 7 Impurity entrophy
+ Training time: 0.508615255355835 seconds
+Predict time: 0.16174697875976562
+Accuracy: 0.9262777023971054
+Tree depth 2 No trees 50 Bag 12 Impurity class_error
+ Training time: 0.8401541709899902 seconds
+Predict time: 0.15345287322998047
+Accuracy: 0.8977838082315694
+Tree depth 2 No trees 50 Bag 12 Impurity gini
+ Training time: 0.8331797122955322 seconds
+Predict time: 0.15392565727233887
+Accuracy: 0.9068294889190411
+Tree depth 2 No trees 50 Bag 12 Impurity entrophy
+ Training time: 0.8280472755432129 seconds
+Predict time: 0.1567835807800293
+Accuracy: 0.9041157847127996
+Tree depth 2 No trees 50 Bag 30 Impurity class_error
+ Training time: 2.0486509799957275 seconds
+Predict time: 0.15610337257385254
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 50 Bag 30 Impurity gini
+ Training time: 1.982543706893921 seconds
+Predict time: 0.15529870986938477
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 50 Bag 30 Impurity entrophy
+ Training time: 2.0870437622070312 seconds
+Predict time: 0.15568304061889648
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 100 Bag 2 Impurity class_error
+ Training time: 0.4191136360168457 seconds
+Predict time: 0.2968592643737793
+Accuracy: 0.5997286295793759
+Tree depth 2 No trees 100 Bag 2 Impurity gini
+ Training time: 0.39388418197631836 seconds
+Predict time: 0.3061206340789795
+Accuracy: 0.6255088195386703
+Tree depth 2 No trees 100 Bag 2 Impurity entrophy
+ Training time: 0.4191277027130127 seconds
+Predict time: 0.3129446506500244
+Accuracy: 0.6110357304387155
+Tree depth 2 No trees 100 Bag 4 Impurity class_error
+ Training time: 0.6507301330566406 seconds
+Predict time: 0.3022763729095459
+Accuracy: 0.8471279963817278
+Tree depth 2 No trees 100 Bag 4 Impurity gini
+ Training time: 0.6287026405334473 seconds
+Predict time: 0.3016693592071533
+Accuracy: 0.8869289914066033
+Tree depth 2 No trees 100 Bag 4 Impurity entrophy
+ Training time: 0.6577696800231934 seconds
+Predict time: 0.3058028221130371
+Accuracy: 0.8724559023066486
+Tree depth 2 No trees 100 Bag 5 Impurity class_error
+ Training time: 0.798332929611206 seconds
+Predict time: 0.3057126998901367
+Accuracy: 0.882858435097241
+Tree depth 2 No trees 100 Bag 5 Impurity gini
+ Training time: 0.7530832290649414 seconds
+Predict time: 0.3088548183441162
+Accuracy: 0.8919041157847128
+Tree depth 2 No trees 100 Bag 5 Impurity entrophy
+ Training time: 0.8253042697906494 seconds
+Predict time: 0.3004899024963379
+Accuracy: 0.9068294889190411
+Tree depth 2 No trees 100 Bag 7 Impurity class_error
+ Training time: 1.0287485122680664 seconds
+Predict time: 0.30586814880371094
+Accuracy: 0.9118046132971506
+Tree depth 2 No trees 100 Bag 7 Impurity gini
+ Training time: 1.0154130458831787 seconds
+Predict time: 0.30588269233703613
+Accuracy: 0.8905472636815921
+Tree depth 2 No trees 100 Bag 7 Impurity entrophy
+ Training time: 1.1362957954406738 seconds
+Predict time: 0.3048379421234131
+Accuracy: 0.9122568973315242
+Tree depth 2 No trees 100 Bag 12 Impurity class_error
+ Training time: 1.656325101852417 seconds
+Predict time: 0.3032662868499756
+Accuracy: 0.8986883763003166
+Tree depth 2 No trees 100 Bag 12 Impurity gini
+ Training time: 1.6584436893463135 seconds
+Predict time: 0.30164623260498047
+Accuracy: 0.8986883763003166
+Tree depth 2 No trees 100 Bag 12 Impurity entrophy
+ Training time: 1.660074234008789 seconds
+Predict time: 0.30487918853759766
+Accuracy: 0.9122568973315242
+Tree depth 2 No trees 100 Bag 30 Impurity class_error
+ Training time: 4.23676061630249 seconds
+Predict time: 0.33174896240234375
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 100 Bag 30 Impurity gini
+ Training time: 4.117634534835815 seconds
+Predict time: 0.31048583984375
+Accuracy: 0.8955223880597015
+Tree depth 2 No trees 100 Bag 30 Impurity entrophy
+ Training time: 4.186103820800781 seconds
+Predict time: 0.2993292808532715
+Accuracy: 0.8955223880597015
+Tree depth 3 No trees 10 Bag 2 Impurity class_error
+ Training time: 0.05832648277282715 seconds
+Predict time: 0.0606536865234375
+Accuracy: 0.5811849841700588
+Tree depth 3 No trees 10 Bag 2 Impurity gini
+ Training time: 0.04578351974487305 seconds
+Predict time: 0.05903053283691406
+Accuracy: 0.8692899140660335
+Tree depth 3 No trees 10 Bag 2 Impurity entrophy
+ Training time: 0.04392743110656738 seconds
+Predict time: 0.06991815567016602
+Accuracy: 0.841248303934871
+Tree depth 3 No trees 10 Bag 4 Impurity class_error
+ Training time: 0.09841108322143555 seconds
+Predict time: 0.06497502326965332
+Accuracy: 0.8362731795567616
+Tree depth 3 No trees 10 Bag 4 Impurity gini
+ Training time: 0.09061431884765625 seconds
+Predict time: 0.05971479415893555
+Accuracy: 0.7385798281320669
+Tree depth 3 No trees 10 Bag 4 Impurity entrophy
+ Training time: 0.08636164665222168 seconds
+Predict time: 0.05836629867553711
+Accuracy: 0.793306196291271
+Tree depth 3 No trees 10 Bag 5 Impurity class_error
+ Training time: 0.10343790054321289 seconds
+Predict time: 0.058841705322265625
+Accuracy: 0.8236092265943012
+Tree depth 3 No trees 10 Bag 5 Impurity gini
+ Training time: 0.10899996757507324 seconds
+Predict time: 0.05862712860107422
+Accuracy: 0.8480325644504749
+Tree depth 3 No trees 10 Bag 5 Impurity entrophy
+ Training time: 0.10664772987365723 seconds
+Predict time: 0.06154060363769531
+Accuracy: 0.749434644957033
+Tree depth 3 No trees 10 Bag 7 Impurity class_error
+ Training time: 0.15964698791503906 seconds
+Predict time: 0.06476569175720215
+Accuracy: 0.879692446856626
+Tree depth 3 No trees 10 Bag 7 Impurity gini
+ Training time: 0.15101218223571777 seconds
+Predict time: 0.05893301963806152
+Accuracy: 0.8634102216191768
+Tree depth 3 No trees 10 Bag 7 Impurity entrophy
+ Training time: 0.14585065841674805 seconds
+Predict time: 0.057628631591796875
+Accuracy: 0.7313432835820896
+Tree depth 3 No trees 10 Bag 12 Impurity class_error
+ Training time: 0.2627887725830078 seconds
+Predict time: 0.060891151428222656
+Accuracy: 0.8968792401628223
+Tree depth 3 No trees 10 Bag 12 Impurity gini
+ Training time: 0.24667978286743164 seconds
+Predict time: 0.06425786018371582
+Accuracy: 0.9009497964721845
+Tree depth 3 No trees 10 Bag 12 Impurity entrophy
+ Training time: 0.255871057510376 seconds
+Predict time: 0.06006169319152832
+Accuracy: 0.903663500678426
+Tree depth 3 No trees 10 Bag 30 Impurity class_error
+ Training time: 0.6601941585540771 seconds
+Predict time: 0.06257057189941406
+Accuracy: 0.9208502939846224
+Tree depth 3 No trees 10 Bag 30 Impurity gini
+ Training time: 0.6010892391204834 seconds
+Predict time: 0.06052827835083008
+Accuracy: 0.9145183175033921
+Tree depth 3 No trees 10 Bag 30 Impurity entrophy
+ Training time: 0.628960132598877 seconds
+Predict time: 0.05734539031982422
+Accuracy: 0.9145183175033921
+Tree depth 3 No trees 20 Bag 2 Impurity class_error
+ Training time: 0.09349727630615234 seconds
+Predict time: 0.10556983947753906
+Accuracy: 0.5653550429669832
+Tree depth 3 No trees 20 Bag 2 Impurity gini
+ Training time: 0.08902215957641602 seconds
+Predict time: 0.10614228248596191
+Accuracy: 0.6363636363636364
+Tree depth 3 No trees 20 Bag 2 Impurity entrophy
+ Training time: 0.09372186660766602 seconds
+Predict time: 0.10442423820495605
+Accuracy: 0.6739032112166441
+Tree depth 3 No trees 20 Bag 4 Impurity class_error
+ Training time: 0.18843507766723633 seconds
+Predict time: 0.10391855239868164
+Accuracy: 0.8706467661691543
+Tree depth 3 No trees 20 Bag 4 Impurity gini
+ Training time: 0.18333673477172852 seconds
+Predict time: 0.15230274200439453
+Accuracy: 0.7824513794663048
+Tree depth 3 No trees 20 Bag 4 Impurity entrophy
+ Training time: 0.3000807762145996 seconds
+Predict time: 0.15837645530700684
+Accuracy: 0.7901402080506558
+Tree depth 3 No trees 20 Bag 5 Impurity class_error
+ Training time: 0.2522909641265869 seconds
+Predict time: 0.10460138320922852
+Accuracy: 0.8873812754409769
+Tree depth 3 No trees 20 Bag 5 Impurity gini
+ Training time: 0.22205758094787598 seconds
+Predict time: 0.10674595832824707
+Accuracy: 0.89280868385346
+Tree depth 3 No trees 20 Bag 5 Impurity entrophy
+ Training time: 0.23068737983703613 seconds
+Predict time: 0.10473132133483887
+Accuracy: 0.866576209859792
+Tree depth 3 No trees 20 Bag 7 Impurity class_error
+ Training time: 0.31673574447631836 seconds
+Predict time: 0.10499930381774902
+Accuracy: 0.9185888738127544
+Tree depth 3 No trees 20 Bag 7 Impurity gini
+ Training time: 0.2988760471343994 seconds
+Predict time: 0.10399866104125977
+Accuracy: 0.8923563998190864
+Tree depth 3 No trees 20 Bag 7 Impurity entrophy
+ Training time: 0.33967018127441406 seconds
+Predict time: 0.10468435287475586
+Accuracy: 0.8629579375848032
+Tree depth 3 No trees 20 Bag 12 Impurity class_error
+ Training time: 0.5499427318572998 seconds
+Predict time: 0.1057891845703125
+Accuracy: 0.9222071460877431
+Tree depth 3 No trees 20 Bag 12 Impurity gini
+ Training time: 0.4984288215637207 seconds
+Predict time: 0.10504484176635742
+Accuracy: 0.8950701040253279
+Tree depth 3 No trees 20 Bag 12 Impurity entrophy
+ Training time: 0.5576345920562744 seconds
+Predict time: 0.10754108428955078
+Accuracy: 0.9149706015377658
+Tree depth 3 No trees 20 Bag 30 Impurity class_error
+ Training time: 1.3168368339538574 seconds
+Predict time: 0.10344457626342773
+Accuracy: 0.9208502939846224
+Tree depth 3 No trees 20 Bag 30 Impurity gini
+ Training time: 1.1956431865692139 seconds
+Predict time: 0.10299181938171387
+Accuracy: 0.9145183175033921
+Tree depth 3 No trees 20 Bag 30 Impurity entrophy
+ Training time: 1.286736249923706 seconds
+Predict time: 0.1119081974029541
+Accuracy: 0.9145183175033921
+Tree depth 3 No trees 50 Bag 2 Impurity class_error
+ Training time: 0.24625325202941895 seconds
+Predict time: 0.24080300331115723
+Accuracy: 0.5983717774762551
+Tree depth 3 No trees 50 Bag 2 Impurity gini
+ Training time: 0.2392106056213379 seconds
+Predict time: 0.24097418785095215
+Accuracy: 0.5911352329262777
+Tree depth 3 No trees 50 Bag 2 Impurity entrophy
+ Training time: 0.25619006156921387 seconds
+Predict time: 0.2421283721923828
+Accuracy: 0.5852555404794211
+Tree depth 3 No trees 50 Bag 4 Impurity class_error
+ Training time: 0.46555638313293457 seconds
+Predict time: 0.24603605270385742
+Accuracy: 0.8652193577566711
+Tree depth 3 No trees 50 Bag 4 Impurity gini
+ Training time: 0.47037291526794434 seconds
+Predict time: 0.2412419319152832
+Accuracy: 0.877431026684758
+Tree depth 3 No trees 50 Bag 4 Impurity entrophy
+ Training time: 0.49953627586364746 seconds
+Predict time: 0.2402663230895996
+Accuracy: 0.8177295341474446
+Tree depth 3 No trees 50 Bag 5 Impurity class_error
+ Training time: 0.6124410629272461 seconds
+Predict time: 0.24036312103271484
+Accuracy: 0.8616010854816825
+Tree depth 3 No trees 50 Bag 5 Impurity gini
+ Training time: 0.5833835601806641 seconds
+Predict time: 0.24553751945495605
+Accuracy: 0.8136589778380823
+Tree depth 3 No trees 50 Bag 5 Impurity entrophy
+ Training time: 0.586679220199585 seconds
+Predict time: 0.2614150047302246
+Accuracy: 0.8801447308909995
+Tree depth 3 No trees 50 Bag 7 Impurity class_error
+ Training time: 0.8126356601715088 seconds
+Predict time: 0.26448822021484375
+Accuracy: 0.9041157847127996
+Tree depth 3 No trees 50 Bag 7 Impurity gini
+ Training time: 0.7735302448272705 seconds
+Predict time: 0.2568395137786865
+Accuracy: 0.8756218905472637
+Tree depth 3 No trees 50 Bag 7 Impurity entrophy
+ Training time: 0.8446054458618164 seconds
+Predict time: 0.24695491790771484
+Accuracy: 0.9118046132971506
+Tree depth 3 No trees 50 Bag 12 Impurity class_error
+ Training time: 1.3751904964447021 seconds
+Predict time: 0.23992586135864258
+Accuracy: 0.9262777023971054
+Tree depth 3 No trees 50 Bag 12 Impurity gini
+ Training time: 1.329768180847168 seconds
+Predict time: 0.24344348907470703
+Accuracy: 0.9136137494346449
+Tree depth 3 No trees 50 Bag 12 Impurity entrophy
+ Training time: 1.3542490005493164 seconds
+Predict time: 0.2600231170654297
+Accuracy: 0.9181365897783809
+Tree depth 3 No trees 50 Bag 30 Impurity class_error
+ Training time: 3.388624668121338 seconds
+Predict time: 0.2360210418701172
+Accuracy: 0.9208502939846224
+Tree depth 3 No trees 50 Bag 30 Impurity gini
+ Training time: 3.06990385055542 seconds
+Predict time: 0.2375948429107666
+Accuracy: 0.9145183175033921
+Tree depth 3 No trees 50 Bag 30 Impurity entrophy
+ Training time: 3.2224154472351074 seconds
+Predict time: 0.2402958869934082
+Accuracy: 0.9145183175033921
+Tree depth 3 No trees 100 Bag 2 Impurity class_error
+ Training time: 0.49619078636169434 seconds
+Predict time: 0.4818234443664551
+Accuracy: 0.5943012211668928
+Tree depth 3 No trees 100 Bag 2 Impurity gini
+ Training time: 0.5025961399078369 seconds
+Predict time: 0.4659552574157715
+Accuracy: 0.6178199909543193
+Tree depth 3 No trees 100 Bag 2 Impurity entrophy
+ Training time: 0.5000278949737549 seconds
+Predict time: 0.46355581283569336
+Accuracy: 0.5911352329262777
+Tree depth 3 No trees 100 Bag 4 Impurity class_error
+ Training time: 0.9670534133911133 seconds
+Predict time: 0.4656858444213867
+Accuracy: 0.8254183627317956
+Tree depth 3 No trees 100 Bag 4 Impurity gini
+ Training time: 0.9696559906005859 seconds
+Predict time: 0.45934271812438965
+Accuracy: 0.8674807779285392
+Tree depth 3 No trees 100 Bag 4 Impurity entrophy
+ Training time: 1.2645447254180908 seconds
+Predict time: 0.9616389274597168
+Accuracy: 0.8376300316598824
+Tree depth 3 No trees 100 Bag 5 Impurity class_error
+ Training time: 1.727994680404663 seconds
+Predict time: 0.4504520893096924
+Accuracy: 0.8493894165535957
+Tree depth 3 No trees 100 Bag 5 Impurity gini
+ Training time: 1.606630802154541 seconds
+Predict time: 0.7779197692871094
+Accuracy: 0.8986883763003166
+Tree depth 3 No trees 100 Bag 5 Impurity entrophy
+ Training time: 1.578037977218628 seconds
+Predict time: 0.5581543445587158
+Accuracy: 0.885119855269109
+Tree depth 3 No trees 100 Bag 7 Impurity class_error
+ Training time: 1.9189558029174805 seconds
+Predict time: 0.6623613834381104
+Accuracy: 0.9217548620533695
+Tree depth 3 No trees 100 Bag 7 Impurity gini
+ Training time: 1.748774766921997 seconds
+Predict time: 0.4816439151763916
+Accuracy: 0.8819538670284939
+Tree depth 3 No trees 100 Bag 7 Impurity entrophy
+ Training time: 1.687614917755127 seconds
+Predict time: 0.5305416584014893
+Accuracy: 0.9023066485753053
+Tree depth 3 No trees 100 Bag 12 Impurity class_error
+ Training time: 3.9339284896850586 seconds
+Predict time: 0.8918604850769043
+Accuracy: 0.9308005427408412
+Tree depth 3 No trees 100 Bag 12 Impurity gini
+ Training time: 4.19698429107666 seconds
+Predict time: 0.6988992691040039
+Accuracy: 0.9194934418815016
+Tree depth 3 No trees 100 Bag 12 Impurity entrophy
+ Training time: 5.058962821960449 seconds
+Predict time: 0.5595383644104004
+Accuracy: 0.9231117141564903
+Tree depth 3 No trees 100 Bag 30 Impurity class_error
+ Training time: 7.02295446395874 seconds
+Predict time: 0.4766542911529541
+Accuracy: 0.9208502939846224
+Tree depth 3 No trees 100 Bag 30 Impurity gini
+ Training time: 7.674504995346069 seconds
+Predict time: 0.6089551448822021
+Accuracy: 0.9145183175033921
+Tree depth 3 No trees 100 Bag 30 Impurity entrophy
+ Training time: 6.457290172576904 seconds
+Predict time: 0.45604586601257324
+Accuracy: 0.9145183175033921
+Tree depth 5 No trees 10 Bag 2 Impurity class_error
+ Training time: 0.05211639404296875 seconds
+Predict time: 0.0650932788848877
+Accuracy: 0.7616463138851198
+Tree depth 5 No trees 10 Bag 2 Impurity gini
+ Training time: 0.04824972152709961 seconds
+Predict time: 0.06520938873291016
+Accuracy: 0.7001356852103121
+Tree depth 5 No trees 10 Bag 2 Impurity entrophy
+ Training time: 0.05022025108337402 seconds
+Predict time: 0.0644838809967041
+Accuracy: 0.8403437358661239
+Tree depth 5 No trees 10 Bag 4 Impurity class_error
+ Training time: 0.18277978897094727 seconds
+Predict time: 0.08772659301757812
+Accuracy: 0.8064224332881049
+Tree depth 5 No trees 10 Bag 4 Impurity gini
+ Training time: 0.14419770240783691 seconds
+Predict time: 0.08552718162536621
+Accuracy: 0.8855721393034826
+Tree depth 5 No trees 10 Bag 4 Impurity entrophy
+ Training time: 0.16441845893859863 seconds
+Predict time: 0.09132933616638184
+Accuracy: 0.7892356399819086
+Tree depth 5 No trees 10 Bag 5 Impurity class_error
+ Training time: 0.23956918716430664 seconds
+Predict time: 0.10186243057250977
+Accuracy: 0.9000452284034374
+Tree depth 5 No trees 10 Bag 5 Impurity gini
+ Training time: 0.36408400535583496 seconds
+Predict time: 0.10062289237976074
+Accuracy: 0.8914518317503393
+Tree depth 5 No trees 10 Bag 5 Impurity entrophy
+ Training time: 0.3074934482574463 seconds
+Predict time: 0.13254165649414062
+Accuracy: 0.815015829941203
+Tree depth 5 No trees 10 Bag 7 Impurity class_error
+ Training time: 0.3880157470703125 seconds
+Predict time: 0.10667657852172852
+Accuracy: 0.85119855269109
+Tree depth 5 No trees 10 Bag 7 Impurity gini
+ Training time: 0.39218664169311523 seconds
+Predict time: 0.11446237564086914
+Accuracy: 0.8733604703753958
+Tree depth 5 No trees 10 Bag 7 Impurity entrophy
+ Training time: 0.3789827823638916 seconds
+Predict time: 0.1120753288269043
+Accuracy: 0.8769787426503844
+Tree depth 5 No trees 10 Bag 12 Impurity class_error
+ Training time: 1.251307487487793 seconds
+Predict time: 0.12149167060852051
+Accuracy: 0.9145183175033921
+Tree depth 5 No trees 10 Bag 12 Impurity gini
+ Training time: 0.6123366355895996 seconds
+Predict time: 0.09004688262939453
+Accuracy: 0.9203980099502488
+Tree depth 5 No trees 10 Bag 12 Impurity entrophy
+ Training time: 0.6168105602264404 seconds
+Predict time: 0.08781981468200684
+Accuracy: 0.937584803256445
+Tree depth 5 No trees 10 Bag 30 Impurity class_error
+ Training time: 2.0787606239318848 seconds
+Predict time: 0.10610675811767578
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 10 Bag 30 Impurity gini
+ Training time: 2.182443141937256 seconds
+Predict time: 0.09673523902893066
+Accuracy: 0.9208502939846224
+Tree depth 5 No trees 10 Bag 30 Impurity entrophy
+ Training time: 1.5074594020843506 seconds
+Predict time: 0.0924062728881836
+Accuracy: 0.921302578018996
+Tree depth 5 No trees 20 Bag 2 Impurity class_error
+ Training time: 0.11270380020141602 seconds
+Predict time: 0.11903238296508789
+Accuracy: 0.6336499321573948
+Tree depth 5 No trees 20 Bag 2 Impurity gini
+ Training time: 0.11968278884887695 seconds
+Predict time: 0.12281417846679688
+Accuracy: 0.7969244685662596
+Tree depth 5 No trees 20 Bag 2 Impurity entrophy
+ Training time: 0.11194658279418945 seconds
+Predict time: 0.11962723731994629
+Accuracy: 0.8448665762098598
+Tree depth 5 No trees 20 Bag 4 Impurity class_error
+ Training time: 0.350588321685791 seconds
+Predict time: 0.17506122589111328
+Accuracy: 0.7584803256445047
+Tree depth 5 No trees 20 Bag 4 Impurity gini
+ Training time: 0.31969761848449707 seconds
+Predict time: 0.1672983169555664
+Accuracy: 0.8123021257349615
+Tree depth 5 No trees 20 Bag 4 Impurity entrophy
+ Training time: 0.36228251457214355 seconds
+Predict time: 0.215867280960083
+Accuracy: 0.7914970601537765
+Tree depth 5 No trees 20 Bag 5 Impurity class_error
+ Training time: 0.4555521011352539 seconds
+Predict time: 0.16901159286499023
+Accuracy: 0.9136137494346449
+Tree depth 5 No trees 20 Bag 5 Impurity gini
+ Training time: 0.558983564376831 seconds
+Predict time: 0.2032301425933838
+Accuracy: 0.8462234283129806
+Tree depth 5 No trees 20 Bag 5 Impurity entrophy
+ Training time: 0.46388769149780273 seconds
+Predict time: 0.1829686164855957
+Accuracy: 0.8715513342379014
+Tree depth 5 No trees 20 Bag 7 Impurity class_error
+ Training time: 0.6850371360778809 seconds
+Predict time: 0.20936131477355957
+Accuracy: 0.9271822704658526
+Tree depth 5 No trees 20 Bag 7 Impurity gini
+ Training time: 0.6198577880859375 seconds
+Predict time: 0.17487120628356934
+Accuracy: 0.8656716417910447
+Tree depth 5 No trees 20 Bag 7 Impurity entrophy
+ Training time: 0.6671597957611084 seconds
+Predict time: 0.16800546646118164
+Accuracy: 0.9154228855721394
+Tree depth 5 No trees 20 Bag 12 Impurity class_error
+ Training time: 1.121847152709961 seconds
+Predict time: 0.16362714767456055
+Accuracy: 0.9235639981908639
+Tree depth 5 No trees 20 Bag 12 Impurity gini
+ Training time: 1.0615293979644775 seconds
+Predict time: 0.1633129119873047
+Accuracy: 0.9339665309814563
+Tree depth 5 No trees 20 Bag 12 Impurity entrophy
+ Training time: 1.076261043548584 seconds
+Predict time: 0.16060781478881836
+Accuracy: 0.9271822704658526
+Tree depth 5 No trees 20 Bag 30 Impurity class_error
+ Training time: 4.148218870162964 seconds
+Predict time: 0.21733736991882324
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 20 Bag 30 Impurity gini
+ Training time: 3.957838296890259 seconds
+Predict time: 0.1642904281616211
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 20 Bag 30 Impurity entrophy
+ Training time: 4.116058111190796 seconds
+Predict time: 0.16536235809326172
+Accuracy: 0.921302578018996
+Tree depth 5 No trees 50 Bag 2 Impurity class_error
+ Training time: 0.3094913959503174 seconds
+Predict time: 0.3148927688598633
+Accuracy: 0.5698778833107191
+Tree depth 5 No trees 50 Bag 2 Impurity gini
+ Training time: 0.3386261463165283 seconds
+Predict time: 0.3006579875946045
+Accuracy: 0.6313885119855269
+Tree depth 5 No trees 50 Bag 2 Impurity entrophy
+ Training time: 0.3093082904815674 seconds
+Predict time: 0.432645320892334
+Accuracy: 0.6331976481230213
+Tree depth 5 No trees 50 Bag 4 Impurity class_error
+ Training time: 1.1443946361541748 seconds
+Predict time: 0.4309203624725342
+Accuracy: 0.8417005879692447
+Tree depth 5 No trees 50 Bag 4 Impurity gini
+ Training time: 0.9679040908813477 seconds
+Predict time: 0.40253305435180664
+Accuracy: 0.8810492989597467
+Tree depth 5 No trees 50 Bag 4 Impurity entrophy
+ Training time: 0.8978800773620605 seconds
+Predict time: 0.4128909111022949
+Accuracy: 0.8258706467661692
+Tree depth 5 No trees 50 Bag 5 Impurity class_error
+ Training time: 1.7114899158477783 seconds
+Predict time: 0.6497974395751953
+Accuracy: 0.856625961103573
+Tree depth 5 No trees 50 Bag 5 Impurity gini
+ Training time: 2.2791738510131836 seconds
+Predict time: 0.4243433475494385
+Accuracy: 0.9086386250565355
+Tree depth 5 No trees 50 Bag 5 Impurity entrophy
+ Training time: 1.3396050930023193 seconds
+Predict time: 0.44078707695007324
+Accuracy: 0.879692446856626
+Tree depth 5 No trees 50 Bag 7 Impurity class_error
+ Training time: 2.693037986755371 seconds
+Predict time: 0.6718533039093018
+Accuracy: 0.8959746720940751
+Tree depth 5 No trees 50 Bag 7 Impurity gini
+ Training time: 3.0593221187591553 seconds
+Predict time: 0.7431211471557617
+Accuracy: 0.9222071460877431
+Tree depth 5 No trees 50 Bag 7 Impurity entrophy
+ Training time: 3.1407151222229004 seconds
+Predict time: 0.5431845188140869
+Accuracy: 0.9226594301221167
+Tree depth 5 No trees 50 Bag 12 Impurity class_error
+ Training time: 3.4536192417144775 seconds
+Predict time: 0.49988484382629395
+Accuracy: 0.926729986431479
+Tree depth 5 No trees 50 Bag 12 Impurity gini
+ Training time: 3.359410285949707 seconds
+Predict time: 0.3941483497619629
+Accuracy: 0.9366802351876978
+Tree depth 5 No trees 50 Bag 12 Impurity entrophy
+ Training time: 4.100101470947266 seconds
+Predict time: 0.7650368213653564
+Accuracy: 0.9271822704658526
+Tree depth 5 No trees 50 Bag 30 Impurity class_error
+ Training time: 7.833510637283325 seconds
+Predict time: 0.41411662101745605
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 50 Bag 30 Impurity gini
+ Training time: 6.6826560497283936 seconds
+Predict time: 0.35428404808044434
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 50 Bag 30 Impurity entrophy
+ Training time: 6.411477565765381 seconds
+Predict time: 0.3579113483428955
+Accuracy: 0.9226594301221167
+Tree depth 5 No trees 100 Bag 2 Impurity class_error
+ Training time: 0.5546724796295166 seconds
+Predict time: 0.5222568511962891
+Accuracy: 0.6246042514699232
+Tree depth 5 No trees 100 Bag 2 Impurity gini
+ Training time: 0.5512998104095459 seconds
+Predict time: 0.527019739151001
+Accuracy: 0.6517412935323383
+Tree depth 5 No trees 100 Bag 2 Impurity entrophy
+ Training time: 0.5756723880767822 seconds
+Predict time: 0.5226356983184814
+Accuracy: 0.6901854364540931
+Tree depth 5 No trees 100 Bag 4 Impurity class_error
+ Training time: 1.795194387435913 seconds
+Predict time: 0.780369758605957
+Accuracy: 0.8679330619629128
+Tree depth 5 No trees 100 Bag 4 Impurity gini
+ Training time: 1.6460375785827637 seconds
+Predict time: 0.7689695358276367
+Accuracy: 0.8331071913161465
+Tree depth 5 No trees 100 Bag 4 Impurity entrophy
+ Training time: 1.7523865699768066 seconds
+Predict time: 0.7819843292236328
+Accuracy: 0.8018995929443691
+Tree depth 5 No trees 100 Bag 5 Impurity class_error
+ Training time: 2.3445284366607666 seconds
+Predict time: 0.7832393646240234
+Accuracy: 0.8701944821347807
+Tree depth 5 No trees 100 Bag 5 Impurity gini
+ Training time: 2.244107246398926 seconds
+Predict time: 0.8482255935668945
+Accuracy: 0.8986883763003166
+Tree depth 5 No trees 100 Bag 5 Impurity entrophy
+ Training time: 2.385542631149292 seconds
+Predict time: 0.8123571872711182
+Accuracy: 0.8674807779285392
+Tree depth 5 No trees 100 Bag 7 Impurity class_error
+ Training time: 3.5515096187591553 seconds
+Predict time: 0.7983405590057373
+Accuracy: 0.9041157847127996
+Tree depth 5 No trees 100 Bag 7 Impurity gini
+ Training time: 3.153658151626587 seconds
+Predict time: 0.7866072654724121
+Accuracy: 0.9104477611940298
+Tree depth 5 No trees 100 Bag 7 Impurity entrophy
+ Training time: 3.3849332332611084 seconds
+Predict time: 0.7655220031738281
+Accuracy: 0.9149706015377658
+Tree depth 5 No trees 100 Bag 12 Impurity class_error
+ Training time: 6.076021909713745 seconds
+Predict time: 0.7957730293273926
+Accuracy: 0.9380370872908186
+Tree depth 5 No trees 100 Bag 12 Impurity gini
+ Training time: 5.3970043659210205 seconds
+Predict time: 0.7406680583953857
+Accuracy: 0.932157394843962
+Tree depth 5 No trees 100 Bag 12 Impurity entrophy
+ Training time: 5.577981233596802 seconds
+Predict time: 0.7371208667755127
+Accuracy: 0.9339665309814563
+Tree depth 5 No trees 100 Bag 30 Impurity class_error
+ Training time: 14.517021656036377 seconds
+Predict time: 0.7861573696136475
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 100 Bag 30 Impurity gini
+ Training time: 12.224542140960693 seconds
+Predict time: 0.6992058753967285
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 100 Bag 30 Impurity entrophy
+ Training time: 12.86449384689331 seconds
+Predict time: 0.7229197025299072
+Accuracy: 0.9217548620533695
+Tree depth 5 No trees 10 Bag 10 Impurity entrophy
+ Training time: 0.7036166191101074 seconds
+Predict time: 0.1150519847869873
+Accuracy: 0.8426051560379919
+Tree depth 5 No trees 10 Bag 12 Impurity entrophy
+ Training time: 0.7124330997467041 seconds
+Predict time: 0.11406183242797852
+Accuracy: 0.9176843057440073
+Tree depth 5 No trees 10 Bag 15 Impurity entrophy
+ Training time: 1.075791358947754 seconds
+Predict time: 0.11687159538269043
+Accuracy: 0.926729986431479
+Tree depth 5 No trees 20 Bag 10 Impurity entrophy
+ Training time: 1.2333629131317139 seconds
+Predict time: 0.2308189868927002
+Accuracy: 0.9032112166440525
+Tree depth 5 No trees 20 Bag 12 Impurity entrophy
+ Training time: 1.4949026107788086 seconds
+Predict time: 0.2084052562713623
+Accuracy: 0.9258254183627318
+Tree depth 5 No trees 20 Bag 15 Impurity entrophy
+ Training time: 2.4283699989318848 seconds
+Predict time: 0.23679900169372559
+Accuracy: 0.9362279511533242
+Tree depth 5 No trees 50 Bag 10 Impurity entrophy
+ Training time: 2.5311594009399414 seconds
+Predict time: 0.5506677627563477
+Accuracy: 0.937584803256445
+Tree depth 5 No trees 50 Bag 12 Impurity entrophy
+ Training time: 4.44488263130188 seconds
+Predict time: 0.4070003032684326
+Accuracy: 0.9308005427408412
+Tree depth 5 No trees 50 Bag 15 Impurity entrophy
+ Training time: 5.168776750564575 seconds
+Predict time: 0.8898348808288574
+Accuracy: 0.9393939393939394
+Tree depth 5 No trees 100 Bag 10 Impurity entrophy
+ Training time: 6.418115854263306 seconds
+Predict time: 0.9165854454040527
+Accuracy: 0.9231117141564903
+Tree depth 5 No trees 100 Bag 12 Impurity entrophy
+ Training time: 9.648236274719238 seconds
+Predict time: 1.8762903213500977
+Accuracy: 0.9357756671189507
+Tree depth 5 No trees 100 Bag 15 Impurity entrophy
+ Training time: 9.612727880477905 seconds
+Predict time: 1.3120882511138916
+Accuracy: 0.937584803256445
+Tree depth 6 No trees 10 Bag 10 Impurity entrophy
+ Training time: 1.0982708930969238 seconds
+Predict time: 0.11480140686035156
+Accuracy: 0.9149706015377658
+Tree depth 6 No trees 10 Bag 12 Impurity entrophy
+ Training time: 1.3130910396575928 seconds
+Predict time: 0.13968586921691895
+Accuracy: 0.9416553595658074
+Tree depth 6 No trees 10 Bag 15 Impurity entrophy
+ Training time: 1.4177920818328857 seconds
+Predict time: 0.12211203575134277
+Accuracy: 0.9285391225689733
+Tree depth 6 No trees 20 Bag 10 Impurity entrophy
+ Training time: 1.4812757968902588 seconds
+Predict time: 0.21259665489196777
+Accuracy: 0.9298959746720941
+Tree depth 6 No trees 20 Bag 12 Impurity entrophy
+ Training time: 1.8957171440124512 seconds
+Predict time: 0.2201066017150879
+Accuracy: 0.9222071460877431
+Tree depth 6 No trees 20 Bag 15 Impurity entrophy
+ Training time: 1.8631863594055176 seconds
+Predict time: 0.190415620803833
+Accuracy: 0.9199457259158752
+Tree depth 6 No trees 50 Bag 10 Impurity entrophy
+ Training time: 3.2840285301208496 seconds
+Predict time: 0.4839475154876709
+Accuracy: 0.9362279511533242
+Tree depth 6 No trees 50 Bag 12 Impurity entrophy
+ Training time: 3.9970874786376953 seconds
+Predict time: 0.4675467014312744
+Accuracy: 0.9335142469470827
+Tree depth 6 No trees 50 Bag 15 Impurity entrophy
+ Training time: 6.766232013702393 seconds
+Predict time: 0.6749255657196045
+Accuracy: 0.9416553595658074
+Tree depth 6 No trees 100 Bag 10 Impurity entrophy
+ Training time: 9.096672773361206 seconds
+Predict time: 0.9408254623413086
+Accuracy: 0.9348710990502035
+Tree depth 6 No trees 100 Bag 12 Impurity entrophy
+ Training time: 7.90641450881958 seconds
+Predict time: 0.8934676647186279
+Accuracy: 0.9416553595658074
+Tree depth 6 No trees 100 Bag 15 Impurity entrophy
+ Training time: 9.479966640472412 seconds
+Predict time: 0.8622922897338867
+Accuracy: 0.9380370872908186
+Tree depth 7 No trees 10 Bag 10 Impurity entrophy
+ Training time: 0.8360097408294678 seconds
+Predict time: 0.1156468391418457
+Accuracy: 0.9339665309814563
+Tree depth 7 No trees 10 Bag 12 Impurity entrophy
+ Training time: 1.139413595199585 seconds
+Predict time: 0.11584305763244629
+Accuracy: 0.9344188150158299
+Tree depth 7 No trees 10 Bag 15 Impurity entrophy
+ Training time: 1.212873935699463 seconds
+Predict time: 0.11719751358032227
+Accuracy: 0.9371325192220714
+Tree depth 7 No trees 20 Bag 10 Impurity entrophy
+ Training time: 1.7216036319732666 seconds
+Predict time: 0.21178722381591797
+Accuracy: 0.9203980099502488
+Tree depth 7 No trees 20 Bag 12 Impurity entrophy
+ Training time: 2.3310906887054443 seconds
+Predict time: 0.2187974452972412
+Accuracy: 0.9348710990502035
+Tree depth 7 No trees 20 Bag 15 Impurity entrophy
+ Training time: 2.456526279449463 seconds
+Predict time: 0.2310810089111328
+Accuracy: 0.9389416553595658
+Tree depth 7 No trees 50 Bag 10 Impurity entrophy
+ Training time: 4.386662244796753 seconds
+Predict time: 0.5100915431976318
+Accuracy: 0.9384893713251922
+Tree depth 7 No trees 50 Bag 12 Impurity entrophy
+ Training time: 5.217625617980957 seconds
+Predict time: 0.5150625705718994
+Accuracy: 0.9425599276345545
+Tree depth 7 No trees 50 Bag 15 Impurity entrophy
+ Training time: 6.748103618621826 seconds
+Predict time: 0.5026710033416748
+Accuracy: 0.9416553595658074
+Tree depth 7 No trees 100 Bag 10 Impurity entrophy
+ Training time: 9.502478837966919 seconds
+Predict time: 1.04549241065979
+Accuracy: 0.9380370872908186
+Tree depth 7 No trees 100 Bag 12 Impurity entrophy
+ Training time: 10.770409107208252 seconds
+Predict time: 1.0538513660430908
+Accuracy: 0.939846223428313
+Tree depth 7 No trees 100 Bag 15 Impurity entrophy
+ Training time: 14.256037950515747 seconds
+Predict time: 1.1046524047851562
+Accuracy: 0.945273631840796
+Tree depth 6 No trees 200 Bag 10 Impurity entrophy
+ Training time: 21.20992636680603 seconds
+Predict time: 2.2875752449035645
+Accuracy: 0.9344188150158299
+Tree depth 6 No trees 200 Bag 12 Impurity entrophy
+ Training time: 16.862510442733765 seconds
+Predict time: 1.8899457454681396
+Accuracy: 0.942107643600181
+Tree depth 6 No trees 200 Bag 15 Impurity entrophy
+ Training time: 34.01988434791565 seconds
+Predict time: 4.632667303085327
+Accuracy: 0.9425599276345545
+Tree depth 7 No trees 200 Bag 10 Impurity entrophy
+ Training time: 29.31497287750244 seconds
+Predict time: 3.590219020843506
+Accuracy: 0.939846223428313
+Tree depth 7 No trees 200 Bag 12 Impurity entrophy
+ Training time: 37.97989797592163 seconds
+Predict time: 4.639006853103638
+Accuracy: 0.9407507914970602
+Tree depth 7 No trees 200 Bag 15 Impurity entrophy
+ Training time: 37.400495290756226 seconds
+Predict time: 3.4954683780670166
+Accuracy: 0.945273631840796
+Tree depth 8 No trees 200 Bag 10 Impurity entrophy
+ Training time: 33.01324200630188 seconds
+Predict time: 4.029841423034668
+Accuracy: 0.9393939393939394
+Tree depth 8 No trees 200 Bag 12 Impurity entrophy
+ Training time: 42.60142970085144 seconds
+Predict time: 4.478021621704102
+Accuracy: 0.947535052012664
+Tree depth 8 No trees 200 Bag 15 Impurity entrophy
+ Training time: 45.447388887405396 seconds
+Predict time: 2.6218533515930176
+Accuracy: 0.9470827679782904

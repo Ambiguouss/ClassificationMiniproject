@@ -1,0 +1,20 @@
+Iter 5
+ Training time: 8.932302474975586 seconds
+Predict time: 0.04887270927429199
+Accuracy: 0.905924920850294
+Iter 10
+ Training time: 25.116852045059204 seconds
+Predict time: 0.18116164207458496
+Accuracy: 0.9149706015377658
+Iter 20
+ Training time: 54.40182089805603 seconds
+Predict time: 0.24790167808532715
+Accuracy: 0.9240162822252375
+Iter 30
+ Training time: 80.64152908325195 seconds
+Predict time: 0.46526193618774414
+Accuracy: 0.9271822704658526
+Iter 50
+ Training time: 103.07758498191833 seconds
+Predict time: 0.4493401050567627
+Accuracy: 0.9298959746720941

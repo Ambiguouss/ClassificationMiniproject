@@ -102,12 +102,12 @@ class RandomForest(Model):
         self.trees=[]
         self.samples=[]
 
-    def train(self,trainingX,trainingY,no_trees=100,max_depth=2,inpurity="class_error"):
+    def train(self,trainingX,trainingY,no_trees=100,max_depth=2,inpurity="class_error",bagging=5):
         n=trainingX.shape[0]
         m=trainingX.shape[1]
         for B in range(no_trees):
             row_indices=np.random.choice(n,size=n,replace=True)
-            col_indices=np.random.choice(m,size=(int)(np.sqrt(m)),replace=False)
+            col_indices=np.random.choice(m,size=bagging,replace=False)
             sampleX=trainingX[row_indices][:,col_indices]
             sampleY=trainingY[row_indices]
             tree=Tree(inpurity)

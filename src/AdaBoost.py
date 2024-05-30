@@ -20,7 +20,7 @@ class AdaBoost(Model):
         results = np.apply_along_axis(M.predict,axis=1,arr=X)
         return np.sum(weightsX[results!=Y])
     
-    def train(self,trainingX,trainingY,max_iter=30):
+    def train(self,trainingX,trainingY,max_iter=20):
         m=trainingX.shape[0]
         n=trainingX.shape[1]
         weightsX=np.full(m,1/m)
