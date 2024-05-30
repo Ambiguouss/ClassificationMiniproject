@@ -10,9 +10,10 @@ class Tree(Model):
             self.right=None
             self.ret=0
 
-    def __init__(self,inpurity_function="class_error"):
+    def __init__(self,inpurity_function="class_error",feature_values=3):
         self.root=self.Node()
         self.inpurity_function=inpurity_function
+        self.feature_values=feature_values
 
     def inpurity(self,Y):
         method=getattr(self,self.inpurity_function,None)
@@ -37,7 +38,7 @@ class Tree(Model):
         best_feature=None
         best_val=None
         for feature in range(X.shape[1]):
-            for val in range(3):
+            for val in range(self.feature_values):
                 left=X[:,feature]==val
                 right=X[:,feature]!=val
                 N0=left.sum()

@@ -1,6 +1,7 @@
 import numpy as np
 import os
 from RandomForest import *
+from AdaBoost import *
 
 project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 training_path= os.path.join(project_dir, "dataset", "training.data")
@@ -17,10 +18,14 @@ validationY=validation[:,-1]
 testX=test[:,:-1]
 testY=test[:,-1]
 
-forest=RandomForest()
-forest.train(trainingX,trainingY,2000,2,"entrophy")
-print(forest.accuracy(trainingX,trainingY))
-print(forest.accuracy(validationX,validationY))
+ada=AdaBoost()
+ada.train(trainingX,trainingY)
+print(ada.accuracy(trainingX,trainingY))
+print(ada.accuracy(validationX,validationY))
+#forest=RandomForest()
+#forest.train(trainingX,trainingY,200,2,"entrophy")
+#print(forest.accuracy(trainingX,trainingY))
+#print(forest.accuracy(validationX,validationY))
 #tree=Tree()
 #tree.train(trainingX,trainingY,maxdepth=40)
 #print(tree.accuracy(trainingX,trainingY))
