@@ -1,8 +1,10 @@
 import numpy as np
 import os
 import time
+import argparse
 from RandomForest import *
 from AdaBoost import *
+from SVM import *
 
 project_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 training_path= os.path.join(project_dir, "dataset", "training.data")
@@ -18,6 +20,18 @@ validationX=validation[:,:-1]
 validationY=validation[:,-1]
 testX=test[:,:-1]
 testY=test[:,-1]
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--max_iter', type=int, default=10,help='max')
+parser.add_argument('--C', type=float, default=1.0,help='C')
+args=parser.parse_args()
+C=args.C
+max_iter=args.max_iter
+
+
+svm=SVM(C=1)
+svm.train(trainingX,trainingY,max_iter)
+print(svm.accuracy(validationX,validationY))
 
 #ada=AdaBoost()
 #ada.train(trainingX,trainingY,10)
@@ -45,15 +59,15 @@ testY=test[:,-1]
 #                end_predict_time=time.time()
 #                predict_time=end_predict_time-start_predict_time
 #                print(f"Tree depth {depth} No trees {no} Bag {bag} Impurity {inpurity}\n Training time: {train_time} seconds\nPredict time: {predict_time}\nAccuracy: {acc}")
-iter_table=[50]
-for iter in iter_table:
-    ada=AdaBoost()
-    start_train_time = time.time()
-    ada.train(trainingX,trainingY,iter)
-    end_train_time = time.time()
-    train_time = end_train_time - start_train_time
-    start_predict_time=time.time()
-    acc=ada.accuracy(testX,testY)
-    end_predict_time=time.time()
-    predict_time=end_predict_time-start_predict_time
-    print(f"Iter {iter}\n Training time: {train_time} seconds\nPredict time: {predict_time}\nAccuracy: {acc}")
+#iter_table=[50]
+#for iter in iter_table:
+#    ada=AdaBoost()
+#    start_train_time = time.time()
+#    ada.train(trainingX,trainingY,iter)
+#    end_train_time = time.time()
+#    train_time = end_train_time - start_train_time
+#    start_predict_time=time.time()
+#    acc=ada.accuracy(testX,testY)
+#    end_predict_time=time.time()
+#    predict_time=end_predict_time-start_predict_time
+#    print(f"Iter {iter}\n Training time: {train_time} seconds\nPredict time: {predict_time}\nAccuracy: {acc}")
