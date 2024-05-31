@@ -22,7 +22,7 @@ testX=test[:,:-1]
 testY=test[:,-1]
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--max_iter', type=int, default=10,help='max')
+parser.add_argument('--max_iter', type=int, default=None,help='max')
 parser.add_argument('--C', type=float, default=1.0,help='C')
 args=parser.parse_args()
 C=args.C

@@ -72,7 +72,7 @@ class SVM(Model):
         numChanged=0
         examineAll=1
         cnt=0
-        while (numChanged>0 or examineAll)and cnt<max_iter:
+        while (numChanged>0 or examineAll)and (max_iter is None or cnt<max_iter):
             cnt+=1
             numChanged=0
             if examineAll:
