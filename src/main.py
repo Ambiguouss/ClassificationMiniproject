@@ -24,12 +24,13 @@ testY=test[:,-1]
 parser = argparse.ArgumentParser()
 parser.add_argument('--max_iter', type=int, default=None,help='max')
 parser.add_argument('--C', type=float, default=1.0,help='C')
+parser.add_argument('--kernel', type=str, default="linear",help='kernel')
 args=parser.parse_args()
 C=args.C
 max_iter=args.max_iter
+kernel=args.kernel
 
-
-svm=SVM(C=C)
+svm=SVM(C=C,kernel=kernel)
 start_train_time = time.time()
 svm.train(trainingX,trainingY,max_iter)
 end_train_time = time.time()
@@ -38,7 +39,7 @@ start_predict_time=time.time()
 acc=svm.accuracy(validationX,validationY)
 end_predict_time=time.time()
 predict_time=end_predict_time-start_predict_time
-print(f"max_iter {max_iter} C {C}\nTraining time: {train_time} seconds\nPredict time: {predict_time}\nAccuracy: {acc}")
+print(f"max_iter {max_iter} C {C} kernel {kernel}\nTraining time: {train_time} seconds\nPredict time: {predict_time}\nAccuracy: {acc}")
 
 #ada=AdaBoost()
 #ada.train(trainingX,trainingY,10)

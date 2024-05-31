@@ -3,12 +3,27 @@ from model import *
 
 class SVM(Model):
 
-    def __init__(self,C=1.0,eps=0.001,kernel=np.dot):
+    def __init__(self,C=1.0,eps=0.001,kernel="linear"):
         self.w=None
         self.b=0
         self.C=C
-        self.kernel=kernel
+        self.kernel_name=kernel
         self.eps=eps
+
+    def kernel(self,X,Y):
+        method=getattr(self,self.kernel_name,None)
+        if callable(method):
+            return method(X,Y)
+        else: raise AttributeError(f"'{self.__class__.__name__}' no method '{self.method_name}'")
+
+    def linear(self,X,Y):
+        return np.dot(X,Y)
+
+    def gauss(self,X,Y):
+        distance = np.linalg.norm(X-Y) ** 2
+        return np.exp(-distance)
+    def sigmoid(self,X,Y):
+        return np.tanh(np.dot(X,Y))
 
     def takeStep(self,i,j,X,Y,alphas):
         if i==j:
@@ -35,7 +50,7 @@ class SVM(Model):
             a2=L
         elif a2new > H:
             a2=H
-        if np.abs(a2new-a2)<self.eps*(a2new+a2+self.eps):
+        if np.abs(a2new-a2)<self.eps:
             return 0
         a1new=a1+s*(a2-a2new)
         alphas[i]=a1new
