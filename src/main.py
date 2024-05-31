@@ -29,9 +29,16 @@ C=args.C
 max_iter=args.max_iter
 
 
-svm=SVM(C=1)
+svm=SVM(C=C)
+start_train_time = time.time()
 svm.train(trainingX,trainingY,max_iter)
-print(svm.accuracy(validationX,validationY))
+end_train_time = time.time()
+train_time=end_train_time-start_train_time
+start_predict_time=time.time()
+acc=svm.accuracy(validationX,validationY)
+end_predict_time=time.time()
+predict_time=end_predict_time-start_predict_time
+print(f"max_iter {max_iter} C {C}\nTraining time: {train_time} seconds\nPredict time: {predict_time}\nAccuracy: {acc}")
 
 #ada=AdaBoost()
 #ada.train(trainingX,trainingY,10)
